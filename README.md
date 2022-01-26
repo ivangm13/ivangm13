@@ -1,6 +1,6 @@
 ### ¡Hola! Soy **Iván**, full stack web developer. 👋
 
-Soy un desarrollador web con poca experiencia pero mucha ilusión, ya que trabajo en un sector que me apasiona. Me gusta estar en continuo aprendizaje, ya que nos encontramos en un mundo en el que la tecnología que utilizas hoy, mañana puede que esté obsoleta.
+Soy un desarrollador web especializado en el stack MEAN. Me gusta estar en continuo aprendizaje, ya que nos encontramos en un mundo en el que la tecnología que utilizas hoy, mañana puede que esté obsoleta.
 
 
 ### ⚙️ Tecnologías que uso:

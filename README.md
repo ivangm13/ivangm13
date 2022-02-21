@@ -1,6 +1,6 @@
 ### ¡Hola! Soy **Iván**, full stack web developer. 👋
 
-Soy un desarrollador web especializado en el stack MEAN. Me gusta estar en continuo aprendizaje, ya que nos encontramos en un mundo en el que la tecnología que utilizas hoy, mañana puede que esté obsoleta.
+Soy un desarrollador web especializado en el stack MEAN. Me gusta estar en continuo aprendizaje, ya que nos encontramos en un mundo en el que la tecnología que utilizas hoy, mañana puede que esté obsoleta. Aunque me especializo en desarrollo web, también conozco lenguajes orientados a objetos, concretamente Java y C++.
 
 
 ### ⚙️ Tecnologías que uso:
